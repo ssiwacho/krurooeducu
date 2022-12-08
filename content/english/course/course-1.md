@@ -7,13 +7,13 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 draft: false
-duration: 06 Month
-fee: 'From: $699'
-image: images/courses/course-1.jpg
+duration: 03 ชั่วโมง
+fee: '500 บาท'
+image: images/courses/datavis2.png
 teacher: Clark Malik
-title: Photography
+title: How to create Effective Data Visualizations
 type: course
-weekly: 03 hours
+weekly: 03 ชั่วโมง
 ---
 
 
