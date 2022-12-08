@@ -1,7 +1,7 @@
 ---
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
-category: "Measurement & Evaluation"
+category: "Measurement and Evaluation"
 date: "2019-07-06T15:27:17+06:00"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
