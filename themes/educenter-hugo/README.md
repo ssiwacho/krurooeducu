@@ -1,8 +1,4 @@
-<h1 align=center>Educenter Hugo</h1> 
-<p align=center> Educenter is a Hugo theme designed specifically for educational websites. This sleek theme is packed with all the elements that you need to show info about your school, courses, instructors, announcements, and more. </p>
-
-<h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2Fsite%2F&form_factor=desktop">Page Speed (96%)</a></h2>
-
+<h1 align=center>Educenter Hugo | <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2F">Page Speed (86%)</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.70.0" alt="Contributors">
@@ -25,11 +21,11 @@
 ---
 
 <p align="center">
-<img src="https://demo.gethugothemes.com/thumbnails/educenter.png" alt="screenshot" width="100%">
+<img src="https://demo.gethugothemes.com/thumbnails/educenter.webp" alt="screenshot" width="100%">
 </p>
 
 ---
-## Key Features
+## Features
 - Multiple language support (Fr, En) 
 - Google analytics  support
 - CSS and Js bundle with hugo pipe
@@ -42,7 +38,7 @@
 - Google map support
 - Top header customization
 - Taxonomy or category
-- Google page speed optimized
+- Google page speed optimized ( 86% )
 - Open graph meta tag
 - Twitter card meta tag
 
@@ -90,15 +86,10 @@ If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/themefisher/educenter-hugo/issues).
 
 
- ## Submit Your Website To Our Showcase
+<!-- ## Educenter Hugo Powered Websites
 
-Are you using Educenter Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
 
-Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
-
-View all the websites powered by Educenter Hugo from [here](https://gethugothemes.com/showcase?theme=educenter). 
-
-[Submit](https://gethugothemes.com/showcase?submit=show) your Educenter Hugo powered website.
+View all the websites powered by Educenter Hugo [here](https://github.com/themefisher/educenter-hugo/wiki/All-educenter-hugo-theme-Powered-Websites). Want to submit your own website powered by Educenter Hugo? You can submit it [here](https://github.com/themefisher/educenter-hugo/discussions/38). -->
 
 <!-- licence -->
 ## License
@@ -123,13 +114,11 @@ share those images.
 
 
 ## Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
-[Services](https://gethugothemes.com/services/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme)**
+We are available for **Hiring** for your next HUGO project. Please, check our
+[services](https://gethugothemes.com/services/?ref=github)
 
 <!-- premium themes -->
 ## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.png)](https://gethugothemes.com/products/bizcraft/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/bexer.png)](https://gethugothemes.com/products/bexer/) |
+| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.webp)](https://gethugothemes.com/products/bizcraft/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/bexer.webp)](https://gethugothemes.com/products/bexer/) |
 |:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle** | **Bizcraft** | **Bexer** |
+| **Premium Theme Bundle (40+)** | **Bizcraft** | **Bexer** |

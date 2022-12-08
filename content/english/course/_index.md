@@ -1,8 +1,7 @@
 ---
-bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+bg_image: https://www.chula.ac.th/wp-content/uploads/2020/07/CU2.jpg
+description: Pre-Conference Workshop วันที่ 15 มิถุนายน พ.ศ. 2566 เปิดรับสมัครแล้วตั้งแต่วันนี้ถึง 30 เม.ย. 66 ค่าลงทะเบียน workshop ละ 500 บาท
 draft: false
-title: Our Courses
+title: Pre-Conference Sessions
 ---
+
