@@ -1,19 +1,19 @@
 ---
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
-category: Statistics and Data Sciences
-date: 2023-06-15T09:00:00+06:00
+category: Photography
+date: "2019-07-06T15:27:17+06:00"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 draft: false
-duration: 03 ชั่วโมง
-fee: '500 บาท'
-image: images/courses/datavis2.png
-teacher: "ผศ.ดร.สิวะโชติ ศรีสุทธิยากร"
-title: How to create Effective Data Visualizations
+duration: 06 Month
+fee: 'From: $699'
+image: images/courses/course-1.jpg
+teacher: Clark Malik
+title: Photography
 type: course
-weekly: 03 ชั่วโมง
+weekly: 03 hours
 ---
 
 
