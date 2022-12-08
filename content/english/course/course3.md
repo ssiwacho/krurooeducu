@@ -1,19 +1,19 @@
 ---
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
-category: "Educational Research Methodology"
-date: 2023-06-15T09:00:00+06:00
+category: EducationalResearch
+date: "2023-06-15T09:00:00+06:00"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 draft: false
-duration: 03 ชั่วโมง
+duration: 15 มิ.ย. 66
 fee: '500 บาท'
-image: "images/courses/updating.png"
-teacher: "ผศ.ดร.ชยุตม์ ภิรมย์สมบัติ"
-title: "Updating Digital Research Methodology in Education"
+image: images/courses/updating.png
+teacher: ผศ.ดร.ชยุตม์ ภิรมย์สมบัติ
+title: Remedies for Common Method Biases and response biases for SEM research
 type: course
-weekly: 03 ชั่วโมง
+weekly: 03 hours
 ---
 
 
