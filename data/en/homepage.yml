@@ -1,140 +1,176 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/CU1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "MER 30th @ EDUCU"
+      content : "การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์ แห่งประเทศไทย ครั้งที่ 30 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ระหว่างวันที่ 15 - 16 มิถุนายน พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
-        label : "Apply now"
-        link : "contact/"
+        enable : yes
+        label : "สมัครเลย !!!"
+        link : "https://forms.gle/kHC66WwgvrRLLugWA"
 
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Call for Papers !!!"
+      content : "เปิดรับสมัครผู้นำเสนอผลงานทั้งรูปแบบ Oral และ Poster Presentation ระหว่างวันที่ 5 มกราคม ถึง 30 เมษายน พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
-        label : "Apply now"
-        link : "contact/"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+        enable : yes
+        label : "สมัครเลย !!!"
+        link : "https://chula.zoom.us/j/4546000348"
+        
+    - title : "Pre-Conference"
+      content : "หลักสูตร Pre-Conference วันที่ 15 มิถุนายน พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
-        label : "Apply now"
-        link : "contact/"
+        enable : yes
+        label : "สมัครเลย !!!"
+        link : "https://chula.zoom.us/j/4546000348"
 
+
+  #  - title : "ปฐมนิเทศหลักสูตร DCI และหลักโค้ชชิ่งเชิงสร้างสรรค์"
+  #    content : "วันศุกร์ที่ 11 กุมภาพันธ์ 2565 เวลา 17:45-21:00 น."
+  #    animation_in : "left"
+  #    animation_out : "right"
+      # available animation : left, right, up, down
+   #   button:
+    #    enable : no
+     #   label : "เข้าสู่กิจกรรมปฐมนิเทศ"
+      #  link : "https://chula.zoom.us/j/4546000348"
 
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/banner5.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : |
+              MER 30th @ EDUCU  
+              15-16 JUN 2023
+      icon : "ti-face-smile" # icon pack : https://themify.me/themify-icons
+      content : |
+              การประชุมสัมมนาทางวิชาการออนไลน์แบบใหม่ ด้วยรูปแบบ 2D Metaverse ในหัวข้อ **'Digital and Sustainable Innovations for Uncertain Post-pandemic Times'** 
+      
+              เปิดรับสมัครผู้เข้าร่วมงานแล้วตั้งแต่วันที่ 5 ม.ค. - 31 พ.ค. 66
+    # feature item loop
+    - name :  |
+              Call for Papers !!  
+              5 Jan - 30 Apr 2023
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : |
+                รับสมัครผู้นำเสนอผลงานวิจัยแล้ว ทั้งในรูปแบบ Oral และ Poster Presentation
+                
+                ตั้งแต่วันนี้ถึง 31 มี.ค. 66
+                
 
     # feature item loop
-    - name : "Our Notice Board"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Keynote Speaker"
+      icon : "ti-microphone" # icon pack : https://themify.me/themify-icons
+      content : |
+                <strong>'(1) The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education'</strong>
+                
+                by [Associate Professor Keith Zvoch from University of Oregon](teacher/keith)
+                
+                '(2) Design Thinking'
+                
+                by [XXXXX](Stanford University)
 
     # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Admission Now"
+    - name : "Pre-Conference Sessions"
+              
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : | 
+
+                (1) Updating Digital Research Methodology in Education
+                
+                (2) How to create Effective Data Visualization
+                
+                (3) Remedies for Common Method Biases and response biases for SEM research
+                
+                (4) การออกแบบการประเมินโครงการให้มีประสิทธิภาพ
+                
+                (5) Back to basic in research and Educational Excellence
+                
+                (6) TVL (Technical-Vocational-Livelihood?) & North Hampton
+                
+                รับสมัครตั้งแต่วันนี้ถึง 30 เม.ย. 66
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
-  image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  title : "เกี่ยวกับ MER 30th @ EDUCU"
+  image : "images/about/poster.png"
+  content : "สถาบันอุดมศึกษาที่เปิดสอนระดับบัณฑิตศึกษา สาขาการวิจัย การวัดประเมินทางการศึกษาของประเทศไทย ได้มีการจัดงานประชุมสัมมนา เพื่อเป็นเวทีในการแลกเปลี่ยนเรียนรู้ ความคิดเห็นและประสบการณ์ระหว่างคณาจารย์ นิสิต นักศึกษา ในชื่อ 'การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทย' ซึ่งสถาบันต่าง ๆ รวม 50 แห่ง ได้หมุนเวียนกันเป็นเจ้าภาพดำเนินการจัดการประชุมดังกล่าวอย่างต่อเนื่องมารวม 29 ครั้งแล้ว  
+             
+             
+             ในฐานะที่ได้รับเกียรติให้เป็นเจ้าภาพจัดงานในครั้งที่ 30 นี้ ภาควิชาวิจัยและจิตวิทยาการศึกษา คณะครุศาตร์ จุฬาลงกรณ์มหาวิทยาลัยเห็นว่าเป็นโอกาสอันดีที่จะจัดประชุมสัมมนาวิชาการในเรื่อง 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ทั้งนี้กิจกรรมสำคัญของงานประกอบด้วย การบรรยายทางวิชาการของวิทยากรหลัก (keynote speakers) การนำเสนอผลงานวิจัยรับเชิญ การนำเสนอผลงานวิจัยคัดเลือกของนักวิชาการ ทั้งนี้การประชุมจะจัดขึ้นในวันที่ 15-16 มิถุนายน พ.ศ. 2566"
   button:
     enable : true
-    label : "Learn more"
+    label : "รายละเอียดเพิ่มเติม"
     link : "about/"
 
 
 ############################# Course ################################
 course:
   enable : true
-  title : "Our Course"
+  title : "Pre-Conference Sessions"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : 
+  title : "สนใจเข้าร่วมแล้วใช่มั้ย?"
   button:
     enable : true
-    label : "join now"
-    link : "contact/"
+    label : "สมัครเลย !!!"
+    link : "https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/closedform"
 
 
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  bg_image : "https://www.chula.ac.th/wp-content/uploads/2020/07/CU7.jpg"
+  title : "MER 30th @ EDUCU"
+  content : การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทยครั้งที่ 30 เรื่อง  Digital and Sustainable Innovations for Uncertain Post-pandemic Times
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
-
+  video_link : "https://www.youtube.com/watch?v=xNzVarNQIUU&feature=youtu.be"
+  
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
   
 ########################### funfacts ############################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "Learning Modules"
+      count : "6"
 
     # funfact item loop
-    - name : "COURSES"
-      count : "50"
+    - name : "Total Training Hours"
+      count : "315"
 
     # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
+    - name : "Lectures Hours"
+      count : "45"
 
     # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+    - name : "Practice Hours"
+      count : "270"
 
 # funfact is for about page
 
@@ -142,6 +178,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
-  title : "Latest News"
+  enable : false
+  title : "ความรู้เผยแพร่ของหลักสูตร"
   # blog item comes from "content/**/blog" folder.
