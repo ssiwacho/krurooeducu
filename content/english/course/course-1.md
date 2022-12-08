@@ -7,8 +7,8 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 draft: false
-duration: 06 Month
-fee: 'From: $699'
+duration: 15 มิ.ย. 66
+fee: '500 บาท'
 image: images/courses/datavis2.png
 teacher: ผศ.ดร.สิวะโชติ ศรีสุทธิยากร
 title: How to create Effective Data Visualizations
