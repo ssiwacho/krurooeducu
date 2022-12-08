@@ -1,63 +1,22 @@
 ---
-bg_image: https://www.chula.ac.th/wp-content/uploads/2020/07/zoom-CU6-cover.jpg
-description: การประชุมสัมมนาวิชาการในเรื่อง ‘Digital and Sustainable Innovations for Uncertain Post-pandemic Times’ วันที่ 15-16 มิถุนายน พ.ศ. 2566
+bg_image: images/backgrounds/page-title.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
 draft: false
-image: 
-title: รายละเอียดของประชุม
+image: images/about/about-page.jpg
+title: About Us
 ---
 
-## หลักการและเหตุผล
+## ABOUT OUR JOURNY
 
-สถาบันอุดมศึกษาที่เปิดสอนระดับบัณฑิตศึกษา สาขาการวิจัย การวัดประเมินทางการศึกษาของประเทศไทย ได้มีการจัดงานประชุมสัมมนา เพื่อเป็นเวทีในการแลกเปลี่ยนเรียนรู้ ความคิดเห็นและประสบการณ์ระหว่างคณาจารย์ นิสิต นักศึกษา ในชื่อ 'การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทย' ซึ่งสถาบันต่าง ๆ รวม 50 แห่ง ได้หมุนเวียนกันเป็นเจ้าภาพดำเนินการจัดการประชุมดังกล่าวอย่างต่อเนื่องมารวม 29 ครั้งแล้ว  
-             
-             
-ในฐานะที่ได้รับเกียรติให้เป็นเจ้าภาพจัดงานในครั้งที่ 30 นี้ ภาควิชาวิจัยและจิตวิทยาการศึกษา คณะครุศาตร์ จุฬาลงกรณ์มหาวิทยาลัยเห็นว่าเป็นโอกาสอันดีที่จะจัดประชุมสัมมนาวิชาการในเรื่อง 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ทั้งนี้กิจกรรมสำคัญของงานประกอบด้วย การบรรยายทางวิชาการของวิทยากรหลัก (keynote speakers) การนำเสนอผลงานวิจัยรับเชิญ การนำเสนอผลงานวิจัยคัดเลือกของนักวิชาการ และ Pre-Conference workshop เพื่อสร้างและยกระดับความรู้และทักษะให้แก่ผู้เข้าร่วม ทั้งนี้การประชุมจะจัดขึ้นในวันที่ 15-16 มิถุนายน พ.ศ. 2566
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
+adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
+aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
+Et amet magni facilis vero corporis quos.
 
-
-
-
-## วัตถุประสงค์
-
-การประชุมสัมมนาวิชาการ การวัด ประเมินผล และการวิจัยสัมพันธ์แห่งประเทศไทยครั้งที่ 30 เรื่อง "Digital and Sustainable Innovations for Uncertain Post-pandemic Times"  มีวัตถุประสงค์ของการดำเนินงานดังนี้
-
-(1) เพื่อจัดประชุมสัมมนาวิชาการระดับชาติในด้านการวิจัย การวัด การประเมิน สถิติ และจิตวิทยาการศึกษา
-
-(2) เพื่อเปิดโอกาสให้ผู้เข้าร่วมประชุมได้เพิ่มพูนความรู้ ประสบการณ์ และแลกเปลี่ยนความคิดเห็นในด้านการวิจัย การวัด การประเมิน สถิติ และจิตวิทยาการศึกษา
-
-(3) เพื่อเปิดโอกาสให้มีการเผยแพร่ความรู้ ความก้าวหน้าและวิทยาการใหม่ ทางด้านวิจัย การวัด การประเมิน สถิติ และจิตวิทยาการศึกษา
-
-(4) เพื่อส่งเสริมให้เกิดสัมพันธภาพที่ดีและเครือข่ายความร่วมมือทางวิชาการระหว่างอาจารย์ นิสิตและนักศึกษาระหว่างมหาวิทยาลัยต่าง ๆ เพื่อการพัฒนาศาสตร์ทางด้านการวิจัย การวัด การประเมิน สถิติ และจิตวิทยาการศึกษา
-
-
-
-## ค่าลงทะเบียน
-
-(1) ค่าลงทะเบียนผู้นำเสนอผลงาน 2,000 บาทต่อคน (รับสมัครตั้งแต่ 5 ม.ค. - 31 มี.ค. 66)
-
-(2) ค่าลงทะเบียนผู้เข้าร่วม 500 บาทต่อคน (รับสมัครตั้งแต่ 5 ม.ค. - 31 พ.ค. 66)
-
-(3) ค่าลงทะเบียนผู้เข้าฟัง pre-conference 500 บาทต่อคนต่อหัวข้อ (รับสมัครตั้งแต่ 1 ก.พ. - 30 เม.ย. 66)
-
-
-## กำหนดการ
-
-### วันที่ 15 มิถุนายน พ.ศ. 2566
-
-XXX
-
-XXX
-
-XXX
-
-
-### วันที่ 16 มิถุนายน พ.ศ. 2566
-
-| **เวลา**   | **กิจกรรม** |
-|:----:|:------:|
-|   9:00 - 9:30 น.   |  พิธีเปิด โดย XXXXX   |   
-|   9:30 - 10:30 น.   |   บรรยายเรื่อง XXXX โดย [keynote]({{< ref "/about" >}} "About Us")
-   |  
-|   B1   |   B2   |   
-|   B4   |   B5   |  
-
-
+exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
+adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
+explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!

@@ -1,9 +1,8 @@
 ---
-title: "Presentation Sessions"
+bg_image: images/backgrounds/page-title.jpg
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
 draft: false
-# page title background image
-bg_image: "https://www.chula.ac.th/wp-content/uploads/2020/07/CU9.jpg"
-# meta description
-description : "วันที่ 16 มิถุนายน พ.ศ. 2566 รับสมัครผู้นำเสนอผลงาน ตั้งแต่วันนี้ถึง 31 มีนาคม พ.ศ. 2566"
+title: Our Courses
 ---
-

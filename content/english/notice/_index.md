@@ -1,7 +1,8 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-description: 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times'
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
 draft: false
-title: Presentation Sessions
+title: Notice
 ---
-

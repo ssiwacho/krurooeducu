@@ -1,29 +1,28 @@
 baseURL: https://demo.gethugothemes.com/educenter/examplesite/
-title: MER 30th @ EDUCU
-
+title: Educenter | hugo education template
 theme: educenter-hugo
 paginate: '6'
 summaryLength: '10'
-disqusShortname: []
+disqusShortname: educenter
 disableLanguages: []
 params:
-  address: คณะครุศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย 254 ถนนพญาไท แขวงวังใหม่ เขตปทุมวัน กรุงเทพฯ 10330
-  author: KruRoo@EDUCU
+  address: 9567 Turner Trace Apt. BC C3G8A4
+  author: Themefisher
   contact_form_action: '#'
   cookies:
-    enable: no
+    enable: yes
     expire_days: 2
-  description: การประชุมสัมมนาทางวิชาการ การวัดผล การประเมิน และวิจัยสัมพันธ์แห่งประเทศไทย
-  email: choat.cu@gmail.com
+  description: This is meta description
+  email: info@educenter.com
   google_analitycs_id: ''
-  logo: images/logo2.png
+  logo: images/logo.png
   map:
-    enable: no
+    enable: yes
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
-  mobile: ''
+  mobile: '+211234565523'
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
@@ -42,46 +41,124 @@ params:
     enable: yes
     preloader: images/preloader.gif
   social:
-
-      
+    - icon: ti-facebook
+      link: '#'
+      title: facebook
+    - icon: ti-twitter-alt
+      link: '#'
+      title: twitter
+    - icon: ti-instagram
+      link: '#'
+      title: instagram
+    - icon: ti-github
+      link: '#'
+      title: github
+    - icon: ti-linkedin
+      link: '#'
+      title: linkedin
   subscription:
-    enable: no
+    enable: yes
     mailchimp_form_action: https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
     mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
-  top_header: no
+  top_header: yes
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2023 [Faculty of Education, Chulalongkorn University](https://www.facebook.com/KruRooEduCU)
+    copyright: Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)
     home: Home
     languageCode: en-us
     languageName: En
     menu:
-     
+      footer:
+        - name: teacher
+          url: teacher/
+        - name: notice
+          url: notice/
+        - name: event
+          url: event/
+        - name: scholarship
+          url: scholarship/
+        - name: research
+          url: research/
       main:
-
-        - name: About MER
+        - name: About
           url: about/
           weight: 1
-        
+        - name: course
+          url: course/
+          weight: 2
         - hasChildren: yes
-          name: Our Activities
-          weight: 2
-          
-        - name: Presentation Sessions
-          parent: Our Activities
-          url: research/
-          weight: 2
-
-        - name: Pre-Conference Sessions
-          parent: Our Activities
-          url: course/  
+          name: Pages
           weight: 3
-          
-          
-        - name: Our Keynotes and Speakers
+        - name: teacher
+          parent: Pages
           url: teacher/
+        - name: notice
+          parent: Pages
+          url: notice/
+        - name: event
+          parent: Pages
+          url: event/
+        - name: scholarship
+          parent: Pages
+          url: scholarship/
+        - name: research
+          parent: Pages
+          url: research/
+        - name: blog
+          url: blog/
           weight: 4
-
-
-  
+        - name: Contact
+          url: contact/
+          weight: 5
+    weight: 1
+  fr:
+    contentDir: content/french
+    copyright: Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)
+    home: Accueil
+    languageCode: fr-fr
+    languageName: Fr
+    menu:
+      footer:
+        - name: teacher
+          url: teacher/
+        - name: notice
+          url: notice/
+        - name: event
+          url: event/
+        - name: scholarship
+          url: scholarship/
+        - name: research
+          url: research/
+      main:
+        - name: À propos
+          url: about/
+          weight: 1
+        - name: Cours
+          url: course/
+          weight: 2
+        - hasChildren: yes
+          name: Pages
+          weight: 3
+        - name: teacher
+          parent: Pages
+          url: teacher/
+        - name: notice
+          parent: Pages
+          url: notice/
+        - name: Évènement
+          parent: Pages
+          url: event/
+        - name: Cursus
+          parent: Pages
+          url: scholarship/
+        - name: research
+          parent: Pages
+          url: research/
+        - name: blog
+          url: blog/
+          weight: 4
+        - name: Contact
+          url: contact/
+          weight: 5
+    weight: 2
