@@ -1,7 +1,7 @@
 ---
 apply_url: '#'
 bg_image: images/backgrounds/page-title.jpg
-category: Photography
+category: DataSciences
 date: "2019-07-06T15:27:17+06:00"
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -9,9 +9,9 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 draft: false
 duration: 06 Month
 fee: 'From: $699'
-image: images/courses/course-1.jpg
-teacher: Clark Malik
-title: Photography
+image: images/courses/datavis2.png
+teacher: ผศ.ดร.สิวะโชติ ศรีสุทธิยากร
+title: How to create Effective Data Visualizations
 type: course
 weekly: 03 hours
 ---
