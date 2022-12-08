@@ -1,0 +1,183 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/CU1.jpg"
+  slider_item:
+    # slider item loop
+    - title : "MER 30th @ EDUCU"
+      content : "การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์ แห่งประเทศไทย ครั้งที่ 30 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ระหว่างวันที่ 15 - 16 มิถุนายน พ.ศ. 2566"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : yes
+        label : "สมัครเลย !!!"
+        link : "https://forms.gle/kHC66WwgvrRLLugWA"
+
+    - title : "Call for Papers !!!"
+      content : "เปิดรับสมัครผู้นำเสนอผลงานทั้งรูปแบบ Oral และ Poster Presentation ระหว่างวันที่ 5 มกราคม ถึง 30 เมษายน พ.ศ. 2566"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : yes
+        label : "สมัครเลย !!!"
+        link : "https://chula.zoom.us/j/4546000348"
+        
+    - title : "Pre-Conference"
+      content : "หลักสูตร Pre-Conference วันที่ 15 มิถุนายน พ.ศ. 2566"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : yes
+        label : "สมัครเลย !!!"
+        link : "https://chula.zoom.us/j/4546000348"
+
+
+  #  - title : "ปฐมนิเทศหลักสูตร DCI และหลักโค้ชชิ่งเชิงสร้างสรรค์"
+  #    content : "วันศุกร์ที่ 11 กุมภาพันธ์ 2565 เวลา 17:45-21:00 น."
+  #    animation_in : "left"
+  #    animation_out : "right"
+      # available animation : left, right, up, down
+   #   button:
+    #    enable : no
+     #   label : "เข้าสู่กิจกรรมปฐมนิเทศ"
+      #  link : "https://chula.zoom.us/j/4546000348"
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner5.png"
+  feature_item:
+    # feature item loop
+    - name : |
+              MER 30th @ EDUCU  
+              15-16 JUN 2023
+      icon : "ti-face-smile" # icon pack : https://themify.me/themify-icons
+      content : |
+              การประชุมสัมมนาทางวิชาการออนไลน์แบบใหม่ ด้วยรูปแบบ 2D Metaverse ในหัวข้อ **'Digital and Sustainable Innovations for Uncertain Post-pandemic Times'** 
+      
+              เปิดรับสมัครผู้เข้าร่วมงานแล้วตั้งแต่วันที่ 5 ม.ค. - 31 พ.ค. 66
+    # feature item loop
+    - name :  |
+              Call for Papers !!  
+              5 Jan - 30 Apr 2023
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : |
+                รับสมัครผู้นำเสนอผลงานวิจัยแล้ว ทั้งในรูปแบบ Oral และ Poster Presentation
+                
+                ตั้งแต่วันนี้ถึง 31 มี.ค. 66
+                
+
+    # feature item loop
+    - name : "Keynote Speaker"
+      icon : "ti-microphone" # icon pack : https://themify.me/themify-icons
+      content : |
+                <strong>'(1) The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education'</strong>
+                
+                by [Associate Professor Keith Zvoch from University of Oregon](teacher/keith)
+                
+                '(2) Design Thinking'
+                
+                by [XXXXX](Stanford University)
+
+    # feature item loop
+    - name : "Pre-Conference Sessions"
+              
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : | 
+
+                (1) Updating Digital Research Methodology in Education
+                
+                (2) How to create Effective Data Visualization
+                
+                (3) Remedies for Common Method Biases and response biases for SEM research
+                
+                (4) การออกแบบการประเมินโครงการให้มีประสิทธิภาพ
+                
+                (5) Back to basic in research and Educational Excellence
+                
+                (6) TVL (Technical-Vocational-Livelihood?) & North Hampton
+                
+                รับสมัครตั้งแต่วันนี้ถึง 30 เม.ย. 66
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "เกี่ยวกับ MER 30th @ EDUCU"
+  image : "images/about/poster.png"
+  content : "สถาบันอุดมศึกษาที่เปิดสอนระดับบัณฑิตศึกษา สาขาการวิจัย การวัดประเมินทางการศึกษาของประเทศไทย ได้มีการจัดงานประชุมสัมมนา เพื่อเป็นเวทีในการแลกเปลี่ยนเรียนรู้ ความคิดเห็นและประสบการณ์ระหว่างคณาจารย์ นิสิต นักศึกษา ในชื่อ 'การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทย' ซึ่งสถาบันต่าง ๆ รวม 50 แห่ง ได้หมุนเวียนกันเป็นเจ้าภาพดำเนินการจัดการประชุมดังกล่าวอย่างต่อเนื่องมารวม 29 ครั้งแล้ว  
+             
+             
+             ในฐานะที่ได้รับเกียรติให้เป็นเจ้าภาพจัดงานในครั้งที่ 30 นี้ ภาควิชาวิจัยและจิตวิทยาการศึกษา คณะครุศาตร์ จุฬาลงกรณ์มหาวิทยาลัยเห็นว่าเป็นโอกาสอันดีที่จะจัดประชุมสัมมนาวิชาการในเรื่อง 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ทั้งนี้กิจกรรมสำคัญของงานประกอบด้วย การบรรยายทางวิชาการของวิทยากรหลัก (keynote speakers) การนำเสนอผลงานวิจัยรับเชิญ การนำเสนอผลงานวิจัยคัดเลือกของนักวิชาการ ทั้งนี้การประชุมจะจัดขึ้นในวันที่ 15-16 มิถุนายน พ.ศ. 2566"
+  button:
+    enable : true
+    label : "รายละเอียดเพิ่มเติม"
+    link : "about/"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Pre-Conference Sessions"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : 
+  title : "สนใจเข้าร่วมแล้วใช่มั้ย?"
+  button:
+    enable : true
+    label : "สมัครเลย !!!"
+    link : "https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/closedform"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "https://www.chula.ac.th/wp-content/uploads/2020/07/CU7.jpg"
+  title : "MER 30th @ EDUCU"
+  content : การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทยครั้งที่ 30 เรื่อง  Digital and Sustainable Innovations for Uncertain Post-pandemic Times
+  # video link
+  video_link : "https://www.youtube.com/watch?v=xNzVarNQIUU&feature=youtu.be"
+  
+
+############################# event ################################
+event:
+  enable : false
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : false
+  funfact_item:
+    # funfact item loop
+    - name : "Learning Modules"
+      count : "6"
+
+    # funfact item loop
+    - name : "Total Training Hours"
+      count : "315"
+
+    # funfact item loop
+    - name : "Lectures Hours"
+      count : "45"
+
+    # funfact item loop
+    - name : "Practice Hours"
+      count : "270"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : false
+  title : "ความรู้เผยแพร่ของหลักสูตร"
+  # blog item comes from "content/**/blog" folder.
