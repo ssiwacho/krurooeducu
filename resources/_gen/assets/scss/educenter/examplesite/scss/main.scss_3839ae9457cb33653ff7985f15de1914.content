@@ -20,13 +20,13 @@ body {
   line-height: 1.5;
   font-family: "Noto Serif Thai", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 16px;
+  font-size: 18px;
   color: #000; }
 
 p, .paragraph {
   font-weight: 400;
   color: #000;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 1.6;
   font-family: "Noto Serif Thai", sans-serif; }
 

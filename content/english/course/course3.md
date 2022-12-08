@@ -11,7 +11,7 @@ duration: 15 มิ.ย. 66
 fee: '500 บาท'
 image: images/courses/updating.png
 teacher: ผศ.ดร.ชยุตม์ ภิรมย์สมบัติ
-title: Remedies for Common Method Biases and response biases for SEM research
+title: Updating Digital Research Methodology in Education
 type: course
 weekly: 03 hours
 ---

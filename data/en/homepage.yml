@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "MER 30th @ EDUCU"
-      content : "การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์ แห่งประเทศไทย ครั้งที่ 30 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ระหว่างวันที่ 15 - 16 มิถุนายน พ.ศ. 2566"
+      content : "การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์ แห่งประเทศไทย ครั้งที่ 30 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ระหว่างวันที่ 15 - 16 มิถุนายน พ.ศ. 2566 เปิดรับสมัครผู้เข้าร่วม และผู้นำเสนอผลงานแล้ว"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
