@@ -14,7 +14,7 @@ type: "research"
 
 
 
-## **(1) "ผู้เข้าร่วมงาน"  ในวันที่ 16 มิถุนายน พ.ศ. 2566 เวลา 09:00 - 16:00 น.**
+## **(1) "รับสมัครผู้เข้าร่วมงาน"  ในวันที่ 16 มิถุนายน พ.ศ. 2566**
  
 > เปิดรับสมัครตั้งแต่ 5 มกราคม - 31 พฤษภาคม พ.ศ. 2566
 
@@ -32,7 +32,7 @@ type: "research"
 
 ---
 
-## **(2) "ผู้นำเสนอผลงาน" ในวันที่ 16 มิถุนายน พ.ศ. 2566**
+## **(2) "รับสมัครผู้นำเสนอผลงาน" ในวันที่ 16 มิถุนายน พ.ศ. 2566**
 
 > เปิดรับสมัครตั้งแต่วันที่ 5 มกราคม - 31 มีนาคม พ.ศ. 2566
 
@@ -47,22 +47,22 @@ type: "research"
 - Template สำหรับการนำเสนอภาคโปสเตอร์ ---> https://bit.ly/MER30-Poster
 
 
-{{< figure src="https://github.com/ssiwacho/mypicture/blob/main/payment.png?raw=true" width="70%">}}
+{{< figure src="https://github.com/ssiwacho/mypicture/blob/main/payment.png?raw=true" width="80%">}}
 
 
 
-{{< figure src="https://github.com/ssiwacho/mypicture/blob/main/Screen%20Shot%202566-01-03%20at%2002.30.40.png?raw=true" width="70%">}}
+{{< figure src="https://github.com/ssiwacho/mypicture/blob/main/Screen%20Shot%202566-01-03%20at%2002.30.40.png?raw=true" width="80%">}}
 
 
 ---
 
-## **(3) "ผู้เข้าร่วมอบรม Preconference Workshops" ในวันที่ 15 มิถุนายน พ.ศ. 2566
+## (3) "รับสมัครผู้เข้าร่วมอบรม Preconference Workshops" ในวันที่ 15 มิถุนายน พ.ศ. 2566
 
 > เปิดรับสมัครตั้งแต่วันที่ 5 มกราคม - 30 เมษายน พ.ศ. 2566
 
-{{< figure src="https://github.com/ssiwacho/mypicture/blob/main/workshops.png?raw=true" width="60%">}}
+{{< figure src="https://github.com/ssiwacho/mypicture/blob/main/workshops.png?raw=true" width="90%">}}
 
-- ดูรายละเอียดของแต่ละ workshop ---> [คลิกเลย]({{< ref "/course/" >}})
+- ดูรายละเอียดของแต่ละ Workshop ---> [คลิกเลย]({{< ref "/course/" >}})
 
 - อัตราค่าลงทะเบียน Workshop ละ 500 บาท
 

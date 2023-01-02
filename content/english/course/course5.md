@@ -1,39 +1,27 @@
 ---
-apply_url: '#'
+apply_url: 'https://forms.gle/TUuRaRMrinCtQ4XF7'
 bg_image: images/backgrounds/page-title.jpg
 category: "Educational Research"
-date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+date: "2022-07-06T15:27:17+06:00"
+description: by Assoc. Prof. Dr. Lim Wee Hun Stephen
 draft: false
 duration: 03 ชั่วโมง
 fee: '500 บาท'
 image: "images/courses/backtobasic.png"
 teacher: "Assoc. Prof. Dr. Lim Wee Hun Stephen"
-title: "Back to Basic in Research and Educational Excellence"
+title: "Workshop1 - Back to Basic in Research and Educational Excellence"
 type: course
 weekly: 03 ชั่วโมง
 ---
 
 
-การสื่อสารเป็นทักษะสำคัญในปัจจุบัน และทัศนภาพข้อมูล (data visualization) ก็เป็นเครื่องมือประสิทธิภาพสูงในการสื่อสาร อย่างไรก็ตามการสร้างทัศนภาพให้มีประสิทธิภาพในการเล่าเรื่องจากข้อมูลเป็นทักษะที่ไม่มีสอนในโรงเรียนและมีน้อยคนที่จะสามารถทำได้ดีตั้งแต่เกิด จะดีแค่ไหนหากเราสามารถสร้างทัศนภาพข้อมูลที่มีความน่าเชื่อถือ มีประสิทธิภาพในการสื่อสารกับกลุ่มเป้าหมาย และช่วยพัฒนาหรือสร้างความสำเร็จให้กับการทำงาน คอสอบรมเชิงปฏิบัติการนี้จึงจะการกล่าวถึงมโนทัศน์ของทัศนภาพข้อมูล ประเภทและลักษณะของทัศนภาพข้อมูลที่ดี ไปจนถึงหลักการพัฒนาทัศนภาพข้อมูล เพื่อเป็นฐานความรู้แก่ผู้เรียนให้สามารถออกแบบทัศนภาพข้อมูลที่เหมาะสม ความรู้ในส่วนนี้จะช่วยเสริมสร้างและยกระดับทักษะการเล่าเรื่องจากข้อมูลและผู้เรียนสามารถนำไปต่อยอดหรือพัฒนาการทำงานได้เป็นอย่างดี
+Around the world, the COVID-19 pandemic propelled university administrators and
+teachers to look to all kinds of educational technologies for remedies, often without even first
+understanding the basic problems in education. As the pandemic subsides, teachers are then
+expected to return to their old way of life—abandon those technologies altogether. This matter
+is perplexing, and far from trivial. In this session, we will return to examine what fundamentally
+constitutes good education at the university. Together, we will review and address the
+associated problems at both scientific and policy levels.
 
-
-### Requirements
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
 
 

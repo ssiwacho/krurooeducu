@@ -22,7 +22,7 @@ slider:
       button:
         enable : yes
         label : "สมัครเลย !!!"
-        link : "https://chula.zoom.us/j/4546000348"
+        link : "about/register"
         
     - title : "Pre-Conference"
       content : "หลักสูตร Pre-Conference วันที่ 15 มิถุนายน พ.ศ. 2566"
@@ -32,7 +32,7 @@ slider:
       button:
         enable : yes
         label : "สมัครเลย !!!"
-        link : "https://chula.zoom.us/j/4546000348"
+        link : "about/register"
 
 
   #  - title : "ปฐมนิเทศหลักสูตร DCI และหลักโค้ชชิ่งเชิงสร้างสรรค์"
@@ -55,52 +55,44 @@ banner_feature:
               MER 30th @ EDUCU  
               15-16 JUN 2023
       icon : "ti-face-smile" # icon pack : https://themify.me/themify-icons
-      content : |
-              การประชุมสัมมนาทางวิชาการออนไลน์แบบใหม่ ด้วยรูปแบบ 2D Metaverse ในหัวข้อ **'Digital and Sustainable Innovations for Uncertain Post-pandemic Times'** 
+      content : การประชุมสัมมนาทางวิชาการออนไลน์แบบใหม่ ด้วยรูปแบบ 2D Metaverse ในหัวข้อ **'Digital and Sustainable Innovations for Uncertain Post-pandemic Times'**
       
-              เปิดรับสมัครผู้เข้าร่วมงานแล้วตั้งแต่วันที่ 5 ม.ค. - 31 พ.ค. 66
     # feature item loop
     - name :  |
               Call for Papers !!  
               5 Jan - 30 Apr 2023
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
       content : |
-                รับสมัครผู้นำเสนอผลงานวิจัยแล้ว ทั้งในรูปแบบ Oral และ Poster Presentation
-                
-                ตั้งแต่วันนี้ถึง 31 มี.ค. 66
+                รับสมัครผู้นำเสนอผลงานวิจัยแล้ว ทั้งการนำเสนอภาคบรรยาย และภาคโปสเตอร์ ในหัวข้อ**วิจัยการศึกษา สถิติและวิทยาการข้อมูลการศึกษา การวัดและประเมินผลการศึกษา
+                จิตวิทยาการศึกษาและแนะแนว การศึกษาพิเศษและการเรียนรวม และหัวข้อวิจัยอื่น ๆ ทางการศึกษา**
                 
 
+
+
     # feature item loop
-    - name : "Keynote Speaker"
+    - name : "ปาฐกถาพิเศษ"
       icon : "ti-microphone" # icon pack : https://themify.me/themify-icons
       content : |
-                <strong>'(1) The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education'</strong>
+                **(1) The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education**
                 
-                by [Associate Professor Keith Zvoch from University of Oregon](teacher/keith)
+                [Associate Professor Keith Zvoch from University of Oregon](teacher/keith)
                 
-                '(2) Design Thinking'
+                **(2) Design Thinking**
                 
-                by [XXXXX](Stanford University)
+                [XXXXX](Stanford University)
 
     # feature item loop
-    - name : "Pre-Conference Sessions"
+    - name : "การเสวนาพิเศษ"
               
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
       content : | 
-
-                (1) Updating Digital Research Methodology in Education
+                **(1) นวัตกรรมการประเมินการเรียนรู้อย่างมีความสุขเพื่อพลิกโฉมการศึกษาในยุคเทคโนโลยีดิจิทัล** โดย
                 
-                (2) How to create Effective Data Visualization
+                ศ.กิติคุณ ดร.สมหวัง พิธิยานุวัฒน์
                 
-                (3) Remedies for Common Method Biases and response biases for SEM research
+                **(2) พัฒนาการของศาสตร์การประเมินในสังคมยุคหลังโควิด 19** โดย 
                 
-                (4) การออกแบบการประเมินโครงการให้มีประสิทธิภาพ
-                
-                (5) Back to basic in research and Educational Excellence
-                
-                (6) TVL (Technical-Vocational-Livelihood?) & North Hampton
-                
-                รับสมัครตั้งแต่วันนี้ถึง 30 เม.ย. 66
+                ศ.กิติคุณ ดร.ศิริชัย กาญจนวาสี, ศ.ดร.รัตนะ บัวสนธ์ และ ศ.ดร.องอาจ นัยพัฒน์
 
 
 ############################## about ##################################
