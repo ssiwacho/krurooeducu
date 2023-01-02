@@ -5,7 +5,7 @@ category: "Measurement and Evaluation"
 date: "2019-07-06T15:27:17+06:00"
 description: โดย ผศ.ดร.จตุภูมิ เขตจัตุรัส
 draft: false
-duration: 03 ชั่วโมง
+duration: 15 มิ.ย. 66
 fee: '500 บาท'
 image: "images/courses/project.png"
 teacher: "ผศ.ดร.จตุภูมิ เขตจัตุรัส"

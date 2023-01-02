@@ -24,8 +24,8 @@ slider:
         label : "สมัครเลย !!!"
         link : "about/register"
         
-    - title : "Pre-Conference"
-      content : "หลักสูตร Pre-Conference วันที่ 15 มิถุนายน พ.ศ. 2566"
+    - title : "PreConference Workshops"
+      content : "หลักสูตร PreConferen Workshops วันที่ 15 มิถุนายน พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down

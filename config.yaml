@@ -65,21 +65,21 @@ Languages:
           weight: 1
         
         - hasChildren: yes
-          name: Our Activities
+          name: Activities
           weight: 2
           
         - name: Presentation Sessions
-          parent: Our Activities
+          parent: Activities
           url: research/
           weight: 2
 
-        - name: Pre-Conference Sessions
-          parent: Our Activities
+        - name: PreConference Workshops
+          parent: Activities
           url: course/  
           weight: 3
           
           
-        - name: Our Keynotes and Speakers
+        - name: Keynotes and Speakers
           url: teacher/
           weight: 4
 

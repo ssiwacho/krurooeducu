@@ -5,7 +5,7 @@ category: "Educational Research"
 date: "2022-07-06T15:27:17+06:00"
 description: by Assoc. Prof. Dr. Lim Wee Hun Stephen
 draft: false
-duration: 03 ชั่วโมง
+duration: 15 มิ.ย. 66
 fee: '500 บาท'
 image: "images/courses/backtobasic.png"
 teacher: "Assoc. Prof. Dr. Lim Wee Hun Stephen"
