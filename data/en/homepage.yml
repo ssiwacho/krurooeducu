@@ -12,7 +12,7 @@ slider:
       button:
         enable : yes
         label : "สมัครเลย !!!"
-        link : "https://forms.gle/kHC66WwgvrRLLugWA"
+        link : "about/register"
 
     - title : "Call for Papers !!!"
       content : "เปิดรับสมัครผู้นำเสนอผลงานทั้งรูปแบบ Oral และ Poster Presentation ระหว่างวันที่ 5 มกราคม ถึง 30 เมษายน พ.ศ. 2566"
@@ -107,7 +107,7 @@ banner_feature:
 about:
   enable : true
   title : "เกี่ยวกับ MER 30th @ EDUCU"
-  image : "images/about/poster.png"
+  image : "images/about/poster1.png"
   content : "สถาบันอุดมศึกษาที่เปิดสอนระดับบัณฑิตศึกษา สาขาการวิจัย การวัดประเมินทางการศึกษาของประเทศไทย ได้มีการจัดงานประชุมสัมมนา เพื่อเป็นเวทีในการแลกเปลี่ยนเรียนรู้ ความคิดเห็นและประสบการณ์ระหว่างคณาจารย์ นิสิต นักศึกษา ในชื่อ 'การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทย' ซึ่งสถาบันต่าง ๆ รวม 50 แห่ง ได้หมุนเวียนกันเป็นเจ้าภาพดำเนินการจัดการประชุมดังกล่าวอย่างต่อเนื่องมารวม 29 ครั้งแล้ว  
              
              
@@ -132,17 +132,17 @@ cta:
   button:
     enable : true
     label : "สมัครเลย !!!"
-    link : "https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/closedform"
+    link : "about/register"
 
 
 ######################## Success story #############################
 success_story:
   enable : true
   bg_image : "https://www.chula.ac.th/wp-content/uploads/2020/07/CU7.jpg"
-  title : "MER 30th @ EDUCU"
-  content : การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทยครั้งที่ 30 เรื่อง  Digital and Sustainable Innovations for Uncertain Post-pandemic Times
+  title : "กลับมาอีกครั้ง! MER30th"
+  content : การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทยครั้งที่ 30 ในหัวข้อ  "Digital and Sustainable Innovations for Uncertain Post-pandemic Times"
   # video link
-  video_link : "https://www.youtube.com/watch?v=xNzVarNQIUU&feature=youtu.be"
+  video_link : "https://www.youtube.com/watch?v=RDgyQaCwjZ8&t=1s"
   
 
 ############################# event ################################
