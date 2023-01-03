@@ -15,7 +15,7 @@ slider:
         link : "about/register"
 
     - title : "Call for Papers !!!"
-      content : "เปิดรับสมัครผู้นำเสนอผลงานทั้งรูปแบบ Oral และ Poster Presentation ระหว่างวันที่ 5 มกราคม ถึง 30 เมษายน พ.ศ. 2566"
+      content : "เปิดรับสมัครผู้นำเสนอผลงานภาคบรรยาย และภาคโปสเตอร์ ตั้งแต่วันนี้ถึง 31 มีนาคม พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -25,7 +25,7 @@ slider:
         link : "about/register"
         
     - title : "PreConference Workshops"
-      content : "หลักสูตร PreConferen Workshops วันที่ 15 มิถุนายน พ.ศ. 2566"
+      content : "หลักสูตร PreConferen Workshops วันที่ 15 มิถุนายน พ.ศ. 2566 เปิดรับสมัครผู้สนใจตั้งแต่วันนี้ถึง 30 เมษายน พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
