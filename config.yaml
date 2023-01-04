@@ -1,5 +1,5 @@
 baseURL: https://demo.gethugothemes.com/educenter/examplesite/
-title: MER 30th @ EDUCU
+title: MER 30th @EDUCU
 
 theme: educenter-hugo
 paginate: '6'
@@ -14,7 +14,7 @@ params:
     enable: no
     expire_days: 2
   description: การประชุมสัมมนาทางวิชาการ การวัดผล การประเมิน และวิจัยสัมพันธ์แห่งประเทศไทย
-  email: choat.cu@gmail.com
+  email: mer30th.cu@gmail.com
   google_analitycs_id: ''
   logo: images/logo2.png
   map:
@@ -40,7 +40,7 @@ params:
       - link: plugins/google-map/gmap.js
   preloader:
     enable: yes
-    preloader: images/preloader.gif
+    preloader: images/giphy.gif
   social:
 
       
@@ -59,29 +59,48 @@ Languages:
     menu:
      
       main:
-
-        - name: About MER
-          url: about/
-          weight: 1
-        
-        - hasChildren: yes
-          name: Activities
-          weight: 2
           
-        - name: Presentation Sessions
-          parent: Activities
-          url: research/
-          weight: 2
+        - name: About MER 30th
+          url: about/
+          weight: 5
 
-        - name: PreConference Workshops
-          parent: Activities
-          url: course/  
+        - hasChildren: yes
+          name: Register
+          weight: 1
+          
+        - name: สำหรับผู้เข้าร่วมการประชุม
+          parent: Register
+          url: about/register_attend
           weight: 3
           
-          
-        - name: Keynotes and Speakers
-          url: teacher/
+        - name: สำหรับผู้นำเสนอผลงาน
+          parent: Register
+          url: about/register_present
+          weight: 2       
+
+        - name: สมัครหลักสูตร Preconference
+          parent: Register
+          url: course
           weight: 4
+          
+   #     - hasChildren: yes
+  #        name: Activities
+  #        weight: 4
+          
+  #      - name: Presentation Sessions
+  #        parent: Activities
+  #        url: research/
+  #        weight: 2
+
+  #      - name: Preconference Workshops
+  #        parent: Activities
+  #        url: course/  
+  #        weight: 3
+          
+          
+
+          
+
 
 
   

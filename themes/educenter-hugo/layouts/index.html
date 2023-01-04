@@ -57,6 +57,8 @@
 {{ end }}
 <!-- /banner-feature -->
 
+
+
 <!-- about us -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
@@ -83,6 +85,17 @@
 {{ end }}
 {{ end }}
 <!-- /about us -->
+
+</br>
+</br>
+
+<center>
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/RDgyQaCwjZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+</br>
+</br>
+
 
 <!-- courses -->
 {{ if $data.homepage.course.enable }}
@@ -143,9 +156,10 @@
 <!-- /cta -->
 
 <!-- success story -->
-{{ if $data.homepage.success_story.enable }}
+
+<!-- {{ if $data.homepage.success_story.enable }}
 {{ partial "success-story.html" . }}
-{{ end }}
+{{ end }} -->
 <!-- /success story -->
 
 <!-- events -->

@@ -5,34 +5,34 @@ slider:
   slider_item:
     # slider item loop
     - title : "MER 30th @ EDUCU"
-      content : "การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์ แห่งประเทศไทย ครั้งที่ 30 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ระหว่างวันที่ 15 - 16 มิถุนายน พ.ศ. 2566 เปิดรับสมัครผู้เข้าร่วม และผู้นำเสนอผลงานแล้ว"
+      content : "การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์ แห่งประเทศไทย ครั้งที่ 30 'Digital and Sustainable Innovations for Uncertain Post-pandemic Times' ระหว่างวันที่ 15 - 16 มิถุนายน พ.ศ. 2566 การประชุมสัมมนาทางวิชาการออนไลน์แบบใหม่ ด้วยรูปแบบ 2D Metaverse" 
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : yes
-        label : "สมัครเลย !!!"
-        link : "about/register"
+        label : "ลงทะเบียนเข้าร่วมการประชุม"
+        link : "about/register_attend"
 
-    - title : "Call for Papers !!!"
-      content : "เปิดรับสมัครผู้นำเสนอผลงานภาคบรรยาย และภาคโปสเตอร์ ตั้งแต่วันนี้ถึง 31 มีนาคม พ.ศ. 2566"
+    - title : "Call for Papers !"
+      content : "MER 30th @ EDUCU เปิดรับสมัครผู้นำเสนอผลงานภาคบรรยาย และภาคโปสเตอร์ ตั้งแต่วันนี้ถึง 31 มีนาคม พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : yes
-        label : "สมัครเลย !!!"
-        link : "about/register"
+        label : "ลงทะเบียนนำเสนอผลงาน"
+        link : "about/register_present"
         
-    - title : "PreConference Workshops"
-      content : "หลักสูตร PreConferen Workshops วันที่ 15 มิถุนายน พ.ศ. 2566 เปิดรับสมัครผู้สนใจตั้งแต่วันนี้ถึง 30 เมษายน พ.ศ. 2566"
+    - title : "Preconference Workshops"
+      content : "หลักสูตร Preconferen Workshops วันที่ 15 มิถุนายน พ.ศ. 2566 เปิดรับสมัครผู้สนใจตั้งแต่วันนี้ถึง 30 เมษายน พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : yes
-        label : "สมัครเลย !!!"
-        link : "about/register"
+        label : "สมัครหลักสูตร Preconference"
+        link : "course"
 
 
   #  - title : "ปฐมนิเทศหลักสูตร DCI และหลักโค้ชชิ่งเชิงสร้างสรรค์"
@@ -48,58 +48,50 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner5.png"
+  image : "https://github.com/ssiwacho/mypicture/blob/main/banner6.png?raw=true"
   feature_item:
     # feature item loop
-    - name : |
-              MER 30th @ EDUCU  
-              15-16 JUN 2023
-      icon : "ti-face-smile" # icon pack : https://themify.me/themify-icons
-      content : การประชุมสัมมนาทางวิชาการออนไลน์แบบใหม่ ด้วยรูปแบบ 2D Metaverse ในหัวข้อ **'Digital and Sustainable Innovations for Uncertain Post-pandemic Times'**
+    - name : "ปาฐกถาพิเศษ เรื่อง 'The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education'"
+      icon : "ti-microphone" # icon pack : https://themify.me/themify-icons
+      content : โดย Professor Keith Zvoch, Ph.D., The Department of Education Studies, College of Education, The University of Oregon.
       
     # feature item loop
-    - name :  |
-              Call for Papers !!  
-              5 Jan - 30 Apr 2023
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : |
-                รับสมัครผู้นำเสนอผลงานวิจัยแล้ว ทั้งการนำเสนอภาคบรรยาย และภาคโปสเตอร์ ในหัวข้อ**วิจัยการศึกษา สถิติและวิทยาการข้อมูลการศึกษา การวัดและประเมินผลการศึกษา
-                จิตวิทยาการศึกษาและแนะแนว การศึกษาพิเศษและการเรียนรวม และหัวข้อวิจัยอื่น ๆ ทางการศึกษา**
-                
-
-
-
-    # feature item loop
-    - name : "ปาฐกถาพิเศษ"
-      icon : "ti-microphone" # icon pack : https://themify.me/themify-icons
-      content : |
-                **(1) The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education**
-                
-                [Associate Professor Keith Zvoch from University of Oregon](teacher/keith)
-                
-                **(2) Design Thinking**
-                
-                [XXXXX](Stanford University)
-
-    # feature item loop
-    - name : "การเสวนาพิเศษ"
-              
+    - name :  | 
+              ปาฐกถาพิเศษ    
+              Coming Soon...
+            
+    
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : | 
-                **(1) นวัตกรรมการประเมินการเรียนรู้อย่างมีความสุขเพื่อพลิกโฉมการศึกษาในยุคเทคโนโลยีดิจิทัล** โดย
+      content : 
                 
-                ศ.กิติคุณ ดร.สมหวัง พิธิยานุวัฒน์
+
+
+
+    # feature item loop
+    - name : "'นวัตกรรมการประเมินการเรียนรู้อย่างมีความสุขเพื่อพลิกโฉมการศึกษาในยุคเทคโนโลยีดิจิทัล'"
+      icon : "ti-vector" # icon pack : https://themify.me/themify-icons
+      content : |
+                เสวนาพิเศษโดย   
+                ศ.กิตติคุณ ดร.สมหวัง พิธิยานุวัฒน์
+      
+    # feature item loop
+    - name : "'พัฒนาการของศาสตร์การประเมินในสังคมยุคหลังโควิด 19'"
+              
+      icon : "ti-stats-up" # icon pack : https://themify.me/themify-icons
+      content : |
+                เสวนาพิเศษโดย   
+                ศ.กิตติคุณ ดร.ศิริชัย กาญจนวาสี, ศ.ดร.รัตนะ บัวสนธ์   
+                และ ศ.ดร.องอาจ นัยพัฒน์ 
                 
-                **(2) พัฒนาการของศาสตร์การประเมินในสังคมยุคหลังโควิด 19** โดย 
-                
-                ศ.กิติคุณ ดร.ศิริชัย กาญจนวาสี, ศ.ดร.รัตนะ บัวสนธ์ และ ศ.ดร.องอาจ นัยพัฒน์
+                ดำเนินการเสวนาโดย    
+                อ.ดร.ณภัทร ชัยมงคล
 
 
 ############################## about ##################################
 about:
   enable : true
-  title : "เกี่ยวกับ MER 30th @ EDUCU"
-  image : "images/about/poster1.png"
+  title : "เกี่ยวกับ MER 30th @EDUCU"
+  image : "images/about/poster3.png"
   content : "สถาบันอุดมศึกษาที่เปิดสอนระดับบัณฑิตศึกษา สาขาการวิจัย การวัดประเมินทางการศึกษาของประเทศไทย ได้มีการจัดงานประชุมสัมมนา เพื่อเป็นเวทีในการแลกเปลี่ยนเรียนรู้ ความคิดเห็นและประสบการณ์ระหว่างคณาจารย์ นิสิต นักศึกษา ในชื่อ 'การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทย' ซึ่งสถาบันต่าง ๆ รวม 50 แห่ง ได้หมุนเวียนกันเป็นเจ้าภาพดำเนินการจัดการประชุมดังกล่าวอย่างต่อเนื่องมารวม 29 ครั้งแล้ว  
              
              
@@ -113,25 +105,25 @@ about:
 ############################# Course ################################
 course:
   enable : true
-  title : "Pre-Conference Sessions"
+  title : "Preconference Workshops"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : 
   title : "สนใจเข้าร่วมแล้วใช่มั้ย?"
   button:
     enable : true
     label : "สมัครเลย !!!"
-    link : "about/register"
+    link : "/index.html"
 
 
 ######################## Success story #############################
 success_story:
   enable : true
   bg_image : "https://www.chula.ac.th/wp-content/uploads/2020/07/CU7.jpg"
-  title : "กลับมาอีกครั้ง! MER30th"
+  title : "กลับมาอีกครั้ง! MER 30th @EDUCU"
   content : การประชุมสัมมนาวิชาการ การวัดผล ประเมินผล และวิจัยสัมพันธ์แห่งประเทศไทยครั้งที่ 30 ในหัวข้อ  "Digital and Sustainable Innovations for Uncertain Post-pandemic Times"
   # video link
   video_link : "https://www.youtube.com/watch?v=RDgyQaCwjZ8&t=1s"

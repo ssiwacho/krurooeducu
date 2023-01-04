@@ -26,11 +26,11 @@ body {
 p, .paragraph {
   font-weight: 400;
   color: #000;
-  font-size: 18px;
+  font-size: 19px;
   line-height: 1.6;
   font-family: "Noto Serif Thai", sans-serif; }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
   color: #1e1e4b;
   font-family: "Noto Sans Thai";
   font-weight: 700;
@@ -48,12 +48,16 @@ h2, .h2 {
     h2, .h2 {
       font-size: 30px; } }
 h3, .h3 {
-  font-size: 20px; }
+  line-height: 1.2;
+  color: #1e1e4b;
+  font-family: "Noto Sans Thai";
+  font-weight: 700;
+  font-size: 19px; }
   @media (max-width: 575px) {
     h3, .h3 {
       font-size: 16px; } }
 h4, .h4 {
-  font-size: 16px; }
+  font-size: 18px; }
   @media (max-width: 575px) {
     h4, .h4 {
       font-size: 15px; } }
@@ -74,6 +78,10 @@ table, th, td {
   line-height: 2;
   overflow-x: auto;
   white-space: nowrap; }
+
+ul {
+  color: black;
+  font-size: 20px; }
 
 /* Button style */
 .btn {
@@ -162,7 +170,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #FFDC11;
+  background-color: white;
   z-index: 999999;
   display: flex;
   align-items: center;

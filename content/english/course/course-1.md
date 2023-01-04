@@ -7,7 +7,7 @@ description: โดย ผศ.ดร.สิวะโชติ ศรีสุท
 draft: false
 duration: 15 มิ.ย. 66
 fee: '500 บาท'
-image: images/courses/datavis2.png
+image: images/courses/datavis3.png
 teacher: "ผศ.ดร.สิวะโชติ ศรีสุทธิยากร"
 title: Workshop 2 - How to create Effective Data Visualizations
 type: course
