@@ -40,7 +40,7 @@ params:
       - link: plugins/google-map/gmap.js
   preloader:
     enable: yes
-    preloader: images/flamegif.gif
+    preloader: images/flame2.gif
   social:
 
       
