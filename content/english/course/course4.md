@@ -7,9 +7,9 @@ description: โดย ผศ.ดร.จตุภูมิ เขตจัตุ
 draft: false
 duration: 15 มิ.ย. 66
 fee: '500 บาท'
-image: "images/courses/project.png"
+image: "images/courses/project2.png"
 teacher: "ผศ.ดร.จตุภูมิ เขตจัตุรัส"
-title: Workshop 5 - การออกแบบการประเมินโครงการให้มีประสิทธิภาพ
+title: Workshop 5 - Designing an Efficient Project Evaluation
 type: course
 weekly: 03 ชั่วโมง
 ---
