@@ -1,7 +1,7 @@
 ---
 apply_url: 'https://forms.gle/TUuRaRMrinCtQ4XF7'
 bg_image: images/backgrounds/page-title.jpg
-category: Educational Research
+category: Measurement and Evaluation
 date: "2019-07-06T15:27:17+06:00"
 description: โดย รศ.ดร.สังวรณ์ งัดกระโทก
 draft: false
