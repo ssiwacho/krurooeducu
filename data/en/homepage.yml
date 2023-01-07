@@ -25,7 +25,7 @@ slider:
         link : "about/register_present"
         
     - title : "Preconference Workshops"
-      content : "หลักสูตร Preconferen Workshops วันที่ 15 มิถุนายน พ.ศ. 2566 เปิดรับสมัครผู้สนใจตั้งแต่วันนี้ถึง 30 เมษายน พ.ศ. 2566"
+      content : "หลักสูตร Preconference Workshops วันที่ 15 มิถุนายน พ.ศ. 2566 เปิดรับสมัครผู้สนใจตั้งแต่วันนี้ถึง 30 เมษายน พ.ศ. 2566"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down

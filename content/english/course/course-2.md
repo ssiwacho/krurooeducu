@@ -9,7 +9,7 @@ duration: 15 มิ.ย. 66
 fee: '500 บาท'
 image: images/courses/remedies2.png
 teacher: รศ.ดร.สังวรณ์ งัดกระโทก
-title: Workshop 3 - Remedies for Common Method Biases and response biases for SEM research
+title: Workshop 3 - Remedies for Common Method Biases and Response Biases for SEM Research
 type: course
 weekly: 03 hours
 ---
