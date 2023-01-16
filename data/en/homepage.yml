@@ -48,7 +48,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "https://github.com/ssiwacho/mypicture/blob/main/banner7.png?raw=true"
+  image : "images/banner/banner6.png"
   feature_item:
     # feature item loop
     - name : "ปาฐกถาพิเศษ เรื่อง 'The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education'"
@@ -57,29 +57,27 @@ banner_feature:
       
     # feature item loop
     - name :  | 
-              ปาฐกถาพิเศษ    
-              Coming Soon...
-            
+              ปาฐกถาพิเศษ เรื่อง 'Design Thinking & Educational Innovation: Opportunities and Challenges in Post-Pandemic Time'
+
     
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : 
+      content : โดย Leticia Britos Cavagnaro, Ph.D., Hasso Plattner Institute of Design, Stanford University.
                 
 
 
 
     # feature item loop
-    - name : "'นวัตกรรมการประเมินการเรียนรู้อย่างมีความสุขเพื่อพลิกโฉมการศึกษาในยุคเทคโนโลยีดิจิทัล'"
+    - name : "การบรรยาย เรื่อง 'นวัตกรรมการประเมินการเรียนรู้อย่างมีความสุขเพื่อพลิกโฉมการศึกษาในยุคเทคโนโลยีดิจิทัล'"
       icon : "ti-vector" # icon pack : https://themify.me/themify-icons
       content : |
-                เสวนาพิเศษโดย   
-                ศ.กิตติคุณ ดร.สมหวัง พิธิยานุวัฒน์
+                โดย ศ.กิตติคุณ ดร.สมหวัง พิธิยานุวัฒน์
       
     # feature item loop
-    - name : "'พัฒนาการของศาสตร์การประเมินในสังคมยุคหลังโควิด 19'"
+    - name : "การเสวนา เรื่อง 'พัฒนาการของศาสตร์การประเมินในสังคมยุคหลังโควิด 19'"
               
       icon : "ti-stats-up" # icon pack : https://themify.me/themify-icons
       content : |
-                เสวนาพิเศษโดย   
+                โดย   
                 ศ.กิตติคุณ ดร.ศิริชัย กาญจนวาสี, ศ.ดร.รัตนะ บัวสนธ์   
                 และ ศ.ดร.องอาจ นัยพัฒน์ 
                 
