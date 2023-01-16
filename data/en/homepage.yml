@@ -48,7 +48,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner6.png"
+  image : "images/banner/banner7.png"
   feature_item:
     # feature item loop
     - name : "ปาฐกถาพิเศษ เรื่อง 'The Promise and Potential Pitfalls of Using Modern Data Science Methods in Education'"
