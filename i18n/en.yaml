@@ -59,7 +59,7 @@
   translation: ราคา
 
 - id: teacher
-  translation: Speaker
+  translation: " "  
 
 - id: location
   translation: location

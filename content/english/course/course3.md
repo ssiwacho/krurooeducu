@@ -1,5 +1,5 @@
 ---
-apply_url: '#'
+apply_url: 'https://forms.gle/QnkCZnrsy54RWdrm7'
 bg_image: images/backgrounds/page-title.jpg
 category: Educational Research
 date: "2019-07-06T15:27:17+06:00"
@@ -17,6 +17,11 @@ weekly: 03 hours
 
 
 แนะนำวิธีวิทยาการวิจัยดิจิทัลทางการศึกษาเบื้องต้น ความแตกต่างจากการวิจัยทั่ว ๆ ไปทางการศึกษา หลักการออกแบบ การรวบรวมข้อมูล และการวิเคราะห์ข้อมูลสำหรับการวิจัยดิจิทัลทางการศึกษา การประยุกต์ใช้วิทยาการข้อมูลและวิธีดิจิทัลในการวิจัยทางการศึกษา เช่น Machine Learning, Deep Learning, Data Mining, Social Network Analysis, Eye Tracking, Multimodal Data Analysis และอื่น ๆ ที่น่าสนใจ
+
+
+
+
+{{< figure src="https://github.com/ssiwacho/picture/blob/main/wk4.png?raw=true" width="30%" >}}
 
 
 

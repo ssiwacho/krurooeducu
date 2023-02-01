@@ -1,5 +1,5 @@
 ---
-apply_url: 'https://forms.gle/TUuRaRMrinCtQ4XF7'
+apply_url: 'https://forms.gle/QnkCZnrsy54RWdrm7'
 bg_image: images/backgrounds/page-title.jpg
 category: "Educational Research"
 date: "2022-07-06T15:27:17+06:00"
@@ -22,6 +22,11 @@ expected to return to their old way of life—abandon those technologies altoget
 is perplexing, and far from trivial. In this session, we will return to examine what fundamentally
 constitutes good education at the university. Together, we will review and address the
 associated problems at both scientific and policy levels.
+
+
+{{< figure src="https://github.com/ssiwacho/picture/blob/main/wk1.png?raw=true" width="30%" >}}
+
+
 
 
 

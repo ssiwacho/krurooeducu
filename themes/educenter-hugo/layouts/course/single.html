@@ -64,14 +64,14 @@
       <div class="col-12">
         <h5 class="mb-3">{{ i18n "teacher" }}</h5>
         {{ range where site.RegularPages "Title" (.Params.Teacher | title) }}
-        <div class="d-flex justify-content-between align-items-center flex-wrap">
+      <!--  <div class="d-flex justify-content-between align-items-center flex-wrap">
           <div class="media mb-2 mb-sm-0 align-items-center">
             <img class="mr-4 img-fluid teacher-thumb-sm" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
             <div class="media-body">
               <h4 class="mt-0"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
               {{ .Params.Course }}
             </div>
-          </div>
+          </div> -->
           <!--
           <div class="social-link">
             <h6 class="d-none d-sm-block text-right">{{ i18n "contact_info" }}</h6>
@@ -108,8 +108,24 @@
       </div>
       {{ end }}
     </div>
+    <p>ผู้สนใจสามารถสอบถามรายละเอียดเพิ่มเติมได้โดย Add เป็นเพื่อนกับน้องวาจาด้านล่างนะครับ</p>
+    <figure>
+   <a href="https://lin.ee/pd1rGZz">
+       <img src="https://github.com/ssiwacho/mypicture/blob/main/waja.png?raw=true" alt=" " width="15%">
+   </a>
+</figure>
   </div>
+
+
+
 </section>
 <!-- /related course -->
+
+
+ 
+
+
+
+
 
 {{ end }}
